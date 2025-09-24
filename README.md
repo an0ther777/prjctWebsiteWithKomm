@@ -19,6 +19,10 @@ VSCode + Volar (отключите Vetur).
 См. Vite Configuration Reference.
 
 # ⚡ Быстрый старт
+Клонировать репозиторий
+git clone https://github.com/yourusername/movie-api.git
+cd movie-api
+
 Установка зависимостей
 ```sh
 npm install
