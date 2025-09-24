@@ -20,8 +20,10 @@ VSCode + Volar (отключите Vetur).
 
 # ⚡ Быстрый старт
 Клонировать репозиторий
+```sh
 git clone https://github.com/yourusername/movie-api.git
 cd movie-api
+```
 
 Установка зависимостей
 ```sh
