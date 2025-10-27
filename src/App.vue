@@ -6,9 +6,9 @@
   </div>
 
   <div class="a" >
-    <a class="a1" href="https://github.com/utimur/Vue3-crash-course/tree/master/src">Спонсоры</a>  
+    <a class="a1" href="https://github.com">Спонсоры</a>  
     |
-    <a class="a2" href="https://github.com/utimur/Vue3-crash-course/tree/master/src">ТехПоддержка</a>
+    <a class="a2" href="https://github.com">ТехПоддержка</a>
   </div>
 </template>
 
