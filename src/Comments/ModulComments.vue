@@ -41,7 +41,7 @@ export default {
             const modal = this.$el.querySelector('.modulDialog')
             if (modal && !modal.contains(event.target)){
                 this.close();
-            }//Посмотреть///////////////////////
+            }
         },
         addComment(newComment) {
             newComment.id = uuidv4();
